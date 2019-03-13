@@ -1,0 +1,11 @@
+beautifulsoup4==4.7.1
+bs4==0.0.1
+GraphLab-Create==2.1
+httpie==1.0.2
+ipython==5.8.0
+ipython-genutils==0.2.0
+lxml==4.3.2
+numpy==1.16.2
+pandas==0.24.1
+requests==2.21.0
+urllib3==1.24.1
