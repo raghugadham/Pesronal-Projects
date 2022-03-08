@@ -1,7 +1,7 @@
 beautifulsoup4==4.7.1
 bs4==0.0.1
 GraphLab-Create==2.1
-httpie==1.0.2
+httpie==3.1.0
 ipython==5.8.0
 ipython-genutils==0.2.0
 lxml==4.3.2
